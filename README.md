@@ -15,7 +15,7 @@ Hi, my name is Juan Pablo Cruz Herrera. I am an International Trade student, and
     Completed several courses on Udemy, focusing on areas such as programming, digital marketing, and business development.
 
 ## 💻 Tech Interests
-Siento una gran pasión por la tecnología y su capacidad para crear soluciones que revolucionen la forma en que hacemos negocios. Combinando mis conocimientos en Comercio Internacional con mis habilidades de programación, aspiro a desarrollar herramientas y sistemas innovadores que optimicen el comercio global. Para mí, la tecnología no es solo programar, sino construir el futuro del comercio y hacer que los procesos sean más eficientes, accesibles y significativos.
+I am deeply passionate about technology and its ability to create solutions that revolutionize the way we do business. Combining my knowledge of International Trade with my programming skills, I aspire to develop innovative tools and systems that optimize global commerce. For me, technology is not just about coding—it's about building the future of trade and making processes more efficient, accessible, and impactful.
 
 </div>
 
