@@ -19,7 +19,7 @@ I am deeply passionate about technology and its ability to create solutions that
 
 </div>
 
-<picture>![snake gif](https://github.com/JuanPablo-08/JuanPablo-08/blob/main/README.md)
+<picture>![snake gif](https://github.com/JuanPablo-08/JuanPablo-08/blob/main.svg)
 </picture>  
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
